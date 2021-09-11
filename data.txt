@@ -1,0 +1,1 @@
+in data we are used for store a data in to a perticular data.
